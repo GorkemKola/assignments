@@ -1,5 +1,5 @@
 I did this assignment on 8 january 2021.
-This assignment is for us to understand pandas library but it is too complicated for a freshman.
+This assignment was for us to understand pandas library but it is too complicated for a freshman.
 I did this assignment barely and it was too hard to make it. But somehow I finished it.
 
 These is instruction of this assignment:
