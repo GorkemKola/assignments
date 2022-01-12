@@ -1,5 +1,5 @@
 I did this assignment on 25 december 2020.
-This is an assignment for us to understand try except and classes in pyhon.
+This was an assignment for us to understand try except and classes in pyhon.
 This is an encryption and decryption assignment.
 I learned matrix with this assignment.
 
